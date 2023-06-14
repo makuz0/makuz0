@@ -8,9 +8,6 @@
 Я окончил онлайн-курсы по аналитке данных, продолжаю развиваться и практиковаться на образовательных ресурсах и читать профильную литературу. В настоящий момент нахожусь в поиске работе.
 
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 - :telescope: Успешно завершил курс по аналитике данных на Карпов.Курсы
 
@@ -26,13 +23,13 @@
 
 ### 🤝 Социальные сети:
 
-  <div id="badges">
-    <!-- <a href="https://t.me/mm_max" target="_blank">
+<div id="badges">
+     <a href="https://t.me/mm_max" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
+     </a>
       <img src="https://github.com/devicons/devicon/blob/master/docs/assets/css/discord-logo.svg" width="40" height="40" alt="discord" />
-    </a>
-  </div>
+     </a>
+</div>
 
 ---
 
