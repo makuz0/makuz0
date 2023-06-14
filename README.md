@@ -27,6 +27,7 @@
      <a href="https://t.me/mm_max" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
      </a>
+      <a href="https://discordapp.com/users/813047084231557141/" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/docs/assets/css/discord-logo.svg" width="40" height="40" alt="discord" />
      </a>
 </div>
