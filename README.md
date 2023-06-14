@@ -43,7 +43,7 @@
   <img src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-mark-darkbg.svg" title="seaborn" alt="seaborn" width="40" height="40"/>&nbsp
   <img src="https://github.com/matplotlib/matplotlib/blob/main/doc/_static/matplotlib-icon.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp
   <img src="https://github.com/plotly/plotly.py/blob/master/packages/javascript/jupyterlab-plotly/style/plotly.svg" title="plotly" alt="plotly" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
 </div>
 
 ---
