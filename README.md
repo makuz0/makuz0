@@ -4,8 +4,7 @@
 
 ### Про меня:
 
-Я специалист в аналитике данных. В область Data Science меня привела моя страсть к данным, а именно стремление увидеть то - что многие не замечают и сделать выводы, которые могут позволить не допустить ошибок. 
-Я дополнительно прошёл обучение по аналитике данных, продолжаю развиваться и практиковаться на образовательных ресурсах, создавать собственные проекты по анализу и обработке данных, и читать профильную литературу. В настоящий момент нахожусь в поиске работе.
+I am a specialist in business analysis and data analytics. My passion for data led me to the field of Data Science, where I strive to observe what many may overlook and draw conclusions that can help prevent errors. I have undergone additional training in data analytics, continue to enhance my skills, and actively engage in practical learning through educational resources. I create my own projects for data analysis and processing, and I avidly read relevant literature. Currently, I am employed as a business analyst at ATOM, where I apply my expertise in the field.
 
 
 
