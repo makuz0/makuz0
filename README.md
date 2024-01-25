@@ -1,4 +1,4 @@
-# Привет, меня зовут Максим!
+# Hi, my name is Maxim!
 
 ---
 
@@ -8,19 +8,19 @@ I am a specialist in business analysis and data analytics. My passion for data l
 
 
 
-- :telescope: Успешно завершил курс по аналитике данных на Карпов.Курсы
+- :telescope: Successfully completed a data analytics course at Karpov.Kursy.
 
-- :seedling: Продолжаю развиваться и практиковаться на Stepik, Kaggle, itresume
+- :seedling: Continuing my development and practical exercises on Stepik, Kaggle, and itresume.
 
-- :zap: Прошел курсы "Поколение Python": курс для начинающих
+- :zap: Completed "Generation Python" courses: a beginner's course.
 
-- :zap: Прошел курсы "Основы Pandas для начинающих"
+- :zap: Completed "Fundamentals of Pandas for Beginners" courses.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kuzminmaksim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mm_max) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:4m.kuzmin@gmail.com)
+- :mailbox: You can contact me at:: [![Telegram Badge](https://img.shields.io/badge/-kuzminmaksim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mm_max) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:4m.kuzmin@gmail.com)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social platforms:
 
 <div id="badges">
      <a href="https://t.me/mm_max" target="_blank">
@@ -33,7 +33,7 @@ I am a specialist in business analysis and data analytics. My passion for data l
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -48,7 +48,7 @@ I am a specialist in business analysis and data analytics. My passion for data l
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
