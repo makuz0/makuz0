@@ -16,7 +16,7 @@ I am a specialist in business analysis and data analytics. My passion for data l
 
 - :zap: Completed "Fundamentals of Pandas for Beginners" courses.
 
-- :mailbox: You can contact me at:: [![Telegram Badge](https://img.shields.io/badge/-kuzminmaksim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mm_max) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:4m.kuzmin@gmail.com)
+- :mailbox: You can contact me at: [![Telegram Badge](https://img.shields.io/badge/-kuzminmaksim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mm_max) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:4m.kuzmin@gmail.com)
 
 ---
 
